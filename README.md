@@ -16,9 +16,8 @@
 <img align="center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img align="center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-![Snake animation](https://github.com/vitinhob/vitinhob/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ##
-
+![Snake animation](https://github.com/vitinhob/vitinhob/blob/output/github-contribution-grid-snake.svg)
 
