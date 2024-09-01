@@ -19,8 +19,5 @@
 </div>
 
 ##
-<div>
-  ![Snake animation](https://github.com/vitinhob/vitinhob/blob/main/.github/workflows/main.yml)
-</div>
 
 
