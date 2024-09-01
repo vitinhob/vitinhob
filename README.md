@@ -20,3 +20,4 @@
 
 ##
 
+![Snake animation] (https://github.com/vitinhob/vitinhob/blob/output/github-contribution-grid-snake.svg)
